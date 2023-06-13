@@ -1,0 +1,8 @@
+melisa ayelen rodriguez
+ 
+que es git ?
+Es una carpeta para alojar prollectos utilizando el sistema de control de versiones git .Se utilza priciplamente  para la creacion fuentes de programas  de ordenador
+
+
+ ¿Para que sirve, y como crees que va a ayudarte a usarlo en programación?
+para guardar repositorios de diferentes trabajos 
