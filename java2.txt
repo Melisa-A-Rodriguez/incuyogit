@@ -1,0 +1,2 @@
+¿Qué se puede hacer con Java?
+permite diseñar softwares que podrán ser ejecutados y distribuidos en las diferentes plataformas 
